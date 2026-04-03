@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="78e5c657-237e-4145-88a3-9d8095a5c307" name="sx.tramhuongtamthienhuong.com" url="http://sx.tramhuongtamthienhuong.com">
+        <fileTransfer host="sx.tramhuongtamthienhuong.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
